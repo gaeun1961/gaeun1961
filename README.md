@@ -31,7 +31,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeun1961&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun1961&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gaeun1961&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaeun1961&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
